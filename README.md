@@ -29,6 +29,12 @@ If you are having problems or seeing errors, definitely contact us and let's try
 
 
 
+## What should you edit?
+
+Replace `const dbName = 'hotel';` with your own database name in the src/main.ts file.
+
+
+
 ## 🔗 Links
 [![discord](https://img.shields.io/badge/discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/653592785043193886)
 
