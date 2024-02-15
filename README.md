@@ -31,7 +31,7 @@ If you are having problems or seeing errors, definitely contact us and let's try
 
 ## What should you edit?
 
-Replace `const dbName = 'hotel';` with your own database name in the src/main.ts file.
+Replace `const dbName = 'hotel';` with your own database name in the src/main.ts file and look database config settings in src/class/DatabaseBackup.ts
 
 
 
